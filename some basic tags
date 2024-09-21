@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <!--The <form> tag is used in HTML to create a space where users can enter information, like their name or email-->
+    <form>
+
+        <!--The <label> tag in HTML is used to create a label for an input element, which helps improve accessibility and usability-->
+        <label for="name">Name</label> 
+
+        <!--The placeholder attribute shows a hint inside an input box about what to enter. It disappears when you start typing.-->
+        <input type="name" placeholder="enter your name"><br>
+
+        <!--here i am using label tag-->
+        <label for="pass">password</label>
+
+        <!--here i am using placeholder tag-->
+        <input type="password" id="pass" placeholder="password"><br>
+
+
+    <!--The <br> tag in HTML is used to create a line break in the text--!>
+        mobile number<input type="number"><br>
+           Email <input type="email"><br>
+
+            <!--here i am using checkbox-->
+           male<input type="checkbox"><br><br>
+           <!-- here i am using checkbox(Checkboxes in HTML are used to allow users to select one or more options from a set. )-->
+           female<input type="checkbox"><br>
+
+           <!--here i am using color tag-->
+           <input type="color"><br>
+
+           <!--here i am using date tag-->
+           <input type="date"><br>
+
+           <!--here i am using datetime tag-->
+           <input type="datetime"><br>
+
+           <!--here i am using determine-local tag-->
+           <input type="datetime-local"><br>
+
+           <!--here i am using file tag-->
+           <input type="file"><br>
+
+           <!--here i am using month tag-->
+           <input type="month"><br>
+
+           <!--here i am using radio tag-->
+           <input type="radio"><br>
+
+           <!--here i am using reset tag-->
+           <input type="reset"><br>
+
+           <!--here i am using search tag-->
+           <input type="search"><br>
+
+           <!--here i am using time tag-->
+           <input type="time"><br>
+
+           <!--here i am using week tag-->
+           <input type="week"><br>
+           
+
+
+           <button>submit</button>
+
+    </form>
+    
+    
+</body>
+</html>
