@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <!--here i'm using header tag-->
+    <header>
+        <pre>                                                                                 <img src="/image.jpeg" alt="my photo" width="250">                 </pre>
+        <br>
+        <p><big><b><u>Summary:</u></b></big></p> 
+        
+        <p>I am a Third-year computer science engineering student at model institute of engineering and  technology,with a strong passion for full stack web development | java | python | .My enthusiasm for technology fuels my continous learning and application of skills to innovative projects.Eager to leverage technical skills and innovative thinking to become a proficient full-stack web developer.I am constantly exploring new tools and methodologies to stay ahead in this ever-evolving field.</p>
+        <hr>
+        <hr>
+        <!--here i'm using main tag-->
+        <main>
+            <!--here i'm using inside main tags-->
+            <!--selection tag-->
+             <p><u><b><big>Education:-</big></b></u></p><br>
+             <p>Degree:Computer Science Engineering</p>
+             <p>Degree start to end:2022-2026</p>
+             <p>GPA:9.34/10.00</p>
+             <p>Coursework:Data structure|opps|operating system|</p>
+             <p>School:Kendriya Vidyalaya No 1</p>
+             <p>ClassXII:2021-2022</p>
+             <p>Percentage:78.98</p>
+             <!--here i'm using inside main tags-->
+             <!--article-->
+             <article>
+             
+                <p>Language:Java | python | Html | c++ | c</p>
+                <p>Technologies:Artificial Intelligence | Cloud architect | Frontend web Development | Git-Github</p>
+                <P>Database:MySQL | SQL server</P>
+                <p>Others:Problem solving | Teamwork | Leadership | Communication</p>
+             
+             </article>
+             <br>
+             <hr>
+             <hr>
+              <section>
+                
+                    <p><u><big><h4>Projects</h4></big></u></p><br> 
+                    <p><u>1.Calculator Generator Project</u>:-The calculator using Tkinter creates a basic interface where users can input numbers and perform calculations. It sets up a window with a display for input and results, along with buttons for numbers and operations. Clicking buttons appends values to the calculation, and pressing '=' evaluates the expression. It's a straightforward implementation for basic arithmetic tasks </p>
+                
+              </section>
+             <br>
+             <section>
+                <p><u>2.Book-Store-Management-System</u>:-The Bookstore Management System comprises two main classes: Book and Bookstore. The Book class represents individual books with attributes like book_id, title, author, price, and quantity. The Bookstore class manages a list of books and includes methods to add, view, search by title or author, update quantity, and remove books. This system allows users to efficiently manage a bookstore's inventory through simple command-line interactions.</p>
+             </section>
+             <br>
+             <section>
+                <p>3.<u>Ladder and Snake</u>:-this project implements a simple "Ladder and Snake" game where a player starts at position 1 and rolls a dice with values ranging from 1 to 6. Each roll advances the player by the rolled number of steps. The game checks if the player lands on predefined ladders or snakes, which adjust the player's position accordingly. Ladders advance the player to a higher position, while snakes move them back. The game continues in a loop until the player reaches or exceeds position 100, at which point a congratulatory message is displayed, indicating that the player has won the game. The code effectively combines random dice rolling, conditional checks for game elements (ladders and snakes), and iterative gameplay to simulate the classic board game experience</p>
+             </section>
+             <br>
+             <hr>
+             <hr>
+             
+             <footer>
+                <p><u><big><h4>Social Media</h4></big></u></p><br>
+                <p><u> Linkedin</u> :- <a href="https://www.linkedin.com/in/dimple-parihar-b9b3b7278/"><img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="linkedin profile" height="100"></a></p><br>
+                <P><u> Git-Github</u> :- <a href="https://github.com/Dimple090"><img src="https://avatars.githubusercontent.com/u/122507270?v=4" alt="Git-Github Profile" height="100"></a></P><br>
+                <p><u> Email</u> :- <a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://lh3.googleusercontent.com/a/ACg8ocL9PDcSZLEpmgzzAUF2QHgX1UxuALA41ljzCK5LkJ279PkPvAhJ=s288-c-no" alt="Email profile" height="100"></a></p><br>
+                  
+             </footer>
+             <hr>
+             <hr>
+             <br>
+             <footer>
+               <p><u><big><h4>Certification</h4></big></u></p><br>
+               <p><u>Machine Learning:Classification</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/ASJBJPWFSWNK"> Certificate</a></p>
+               <p><u>Machine Learning:Clustering and Retrieval</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/796N42UV3WJM">Certificate</a></p>
+               <p><u>Machine Learning:Reggresion</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/LM2U6H7NC4AX">Certificate</a></p>
+               <p><u>Getting Started with ubuntu linux</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/PBA4GQABHBXQ">Certificate</a></p>
+               <p><u>Building AI Powered Chatbots without programming</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/3RX6HLG7VKHT">Certificate</a></p>
+               <p><u>Python for data science,AI and Development</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/LC7GDLRXKPPV">Certificate</a></p>
+               <p><u>Getting started with AI using IBM watson</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/KFHL6DR4T7KM">Certificate</a></p>
+               <p><u>Introduction of Artificial Intelligence</u>:- <a href="https://www.coursera.org/account/accomplishments/verify/H3ZXS997WPY9">Certificate</a></p>
+               <br>
+               <hr>
+               <hr>
+             </footer>
+             
+             
+        </main>
+    </header>
+    
+</body>
+</html>
+
+
+
