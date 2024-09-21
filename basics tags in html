@@ -1,0 +1,237 @@
+<!--<html>--!>
+<!--The root element of an HTML page--!>
+<html>
+  <head>
+    <title>My Page</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
+
+
+
+<!--<head>--!>
+<!--Contains meta-information about the document, such as its title and links to stylesheets.--!>
+<head>
+  <title>My Page Title</title>
+  <meta charset="UTF-8">
+</head>
+
+
+
+<!--<title>--!>
+<!--Sets the title of the document, displayed in the browser's title bar or tab.--!>
+<title>My First HTML Page</title>
+
+
+
+<!--<body>--!>
+<!--Contains the content of the HTML document, including text, images, and other media.--!>
+<body>
+  <h1>Welcome to My Website</h1>
+</body>
+
+
+
+<!--<h1> to <h6>--!>
+<!--Heading tags, where <h1> is the highest level and <h6> is the lowest--!>
+<h1>Main Title</h1>
+<h2>Subheading</h2>
+<h3>Section Title</h3>
+
+
+
+<!--<p>--!>
+<!--Defines a paragraph.--!>
+<p>This is a paragraph of text.</p>
+
+
+
+ <a>
+Creates a hyperlink to another page or resource.
+<a href="https://www.example.com">Visit Example</a>
+
+
+
+<img>
+Embeds an image in the document.
+<img src="image.jpg" alt="Description of image">
+
+
+
+ul> and <ol>
+Defines unordered (bulleted) and ordered (numbered) lists, respectively.
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+</ol>
+
+
+
+<li>
+Defines a list item, used within <ul> and <ol>.
+<li>List Item</li>
+
+
+
+<div>
+A block-level container for grouping elements and applying styles.
+<div style="background-color: lightgrey;">
+  <p>This is inside a div.</p>
+</div>
+
+
+
+<span>
+An inline container for styling a part of the text.
+<span style="color: red;">This text is red.</span>
+
+
+
+<form>
+Defines a form for user input.
+<form action="/submit" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+  <input type="submit" value="Submit">
+</form>
+
+
+
+<input>
+Defines an input field within a form.
+<input type="text" placeholder="Enter your name">
+<input type="checkbox" name="subscribe"> Subscribe to newsletter
+
+
+
+<button>
+Creates a clickable button.
+<button type="button">Click Me!</button>
+
+
+
+<textarea>
+Defines a multi-line text input.
+<textarea rows="4" cols="50">Enter text here...</textarea>
+
+
+
+<label>
+Defines a label for an <input> element, improving accessibility.
+<label for="email">Email:</label>
+<input type="email" id="email" name="email">
+
+
+
+<table>
+Creates a table.
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+  </tr>
+  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+  </tr>
+</table>
+
+
+ <tr>
+Defines a row in a table.
+<tr>
+  <td>Cell 1</td>
+  <td>Cell 2</td>
+</tr>
+
+
+
+<td> and <th>
+Defines a cell in a table. <th> is for headers.
+<th>Header Cell</th>
+<td>Data Cell</td>
+
+
+
+<blockquote>
+Defines a section that is quoted from another source.
+<blockquote cite="source">
+  This is a blockquote.
+</blockquote>
+
+
+
+<strong>
+Indicates that text is of strong importance, typically rendered as bold.
+<strong>This text is strong.</strong>
+
+
+
+<em>
+Indicates emphasized text, typically rendered as italic.
+<em>This text is emphasized.</em>
+
+
+
+<br>
+Inserts a line break.
+<p>Line one.<br>Line two.</p>
+
+
+
+<hr>
+Inserts a horizontal rule (line), often used to separate content.
+<hr>
+
+
+
+<meta>
+Defines metadata about the document, such as character set and viewport settings.
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link>
+Links to external resources like stylesheets.
+<link rel="stylesheet" href="styles.css">
+
+
+
+<script>
+Defines a client-side script, usually JavaScript.
+<script src="script.js"></script>
+
+
+
+<style>
+Defines CSS styles for the document.
+<style>
+  body { background-color: lightblue; }
+</style>
+
+
+
+<iframe>
+Embeds another HTML page within the current page.
+<iframe src="https://www.example.com" width="600" height="400"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
